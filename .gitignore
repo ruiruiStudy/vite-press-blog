@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+.idea
+.vscode
+yarn.lock
+docs/.vitepress/dist
+docs/.vitepress/cache
