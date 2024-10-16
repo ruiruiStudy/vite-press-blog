@@ -2,15 +2,20 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "阿瑞的个人博客",
-  description: "个人博客，学习测试用",
+  title: "阿瑞博客",
+  description: "个人网站，学习测试用",
   cleanUrls: true, // 简介URL，省略结尾的 .html
   lastUpdated: true,
+
+  head: [
+      ['link', { rel: 'icon', href: '../public/favicon.ico' }]
+  ],
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '首页', link: '/' },
+      { text: '示例', link: '/markdown-examples' }
     ],
 
     sidebar: [
@@ -18,13 +23,36 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: '示例', link: '/markdown-examples' },
-          { text: 'api', link: '/api-examples' }
+          { text: '配置项', link: '/api-examples' },
+          {
+            text: '若依Nodejs全栈',
+            collapsed: false,
+            items: [
+              { text: '在线预览', link: '/ruoyi/article6' },
+              { text: '初始化', link: '/ruoyi/article1' },
+              { text: '登录接口', link: '/ruoyi/article2' },
+              { text: '用户信息和路由', link: '/ruoyi/article3' },
+              { text: '用户增删改查', link: '/ruoyi/article4' },
+              { text: '导出Excel', link: '/ruoyi/article5' },
+            ]
+          },
+          {
+            text: 'Electron仿微信',
+            collapsed: true,
+            items: [
+              { text: '高度还原微信', link: '/electron/article1' },
+              { text: '联动关闭子窗口', link: '/electron/article2' },
+              { text: '新建贴合窗口', link: '/electron/article3' },
+              { text: '新开窗口', link: '/electron/article5' },
+              { text: '置顶、最大化、最小化', link: '/electron/article6' },
+            ]
+          },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://gitee.com/ruirui-study', ariaLabel: '码云' }
     ],
 
     // 页脚
@@ -46,6 +74,10 @@ export default defineConfig({
     docFooter: {
       prev: '上一篇',
       next: '下一篇'
+    },
+
+    outline: {
+      label: '导航目录'
     }
   }
 })
