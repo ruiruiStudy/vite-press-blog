@@ -11,8 +11,7 @@ windows：PC微信
 ## 实现过程
 #### 效果展示
 
-[video(video-Iqm6VPcm-1724476921616)(type-csdn)(url-https://live.csdn.net/v/embed/419680)(image-https://i-blog.csdnimg.cn/blog_migrate/5094fe5b42571268bd04212295570505.jpeg)(title-贴合窗口)]
-
+[演示视频](https://live.csdn.net/v/embed/419680)
 
 首先是新创建一个贴合窗口，在[之前的文章](https://blog.csdn.net/yan1915766026/article/details/141425899)中有讲到，注意：微信的贴合窗口，在任务栏中是不显示的，所以在新建贴合窗口时加个属性：
 

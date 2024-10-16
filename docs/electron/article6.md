@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-[作者原文链接](https://blog.csdn.net/yan1915766026/article/details/141305712
+[作者原文链接](https://blog.csdn.net/yan1915766026/article/details/141305712)
 
 ## 背景
 如果用electron仿写微信PC端的项目，那么微信的右上角的`置顶、最小化、最大化、关闭`，这几个按钮肯定是要自己写的，因为原生的只有`最小化、最大化、关闭`，切不支持定制，无法满足项目需求，所以我们要隐藏原生的，自己来封装
