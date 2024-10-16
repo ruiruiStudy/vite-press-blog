@@ -8,7 +8,7 @@ export default defineConfig({
   lastUpdated: true,
 
   head: [
-      ['link', { rel: 'icon', href: '../public/favicon.ico' }]
+      ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
 
   themeConfig: {
