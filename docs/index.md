@@ -12,7 +12,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: 关于作者
-      link: /api-examples
+      link: /views/about/author
 
 features:
   - title: 开源项目
@@ -20,12 +20,12 @@ features:
   - title: CSDN博主
     details: 小小博主，不值一提，热爱技术，喜欢分享，已分享前端的一些内容，注重实用性，浅显易懂
   - title: 技术栈
-    details: 主Vue，其他：Nodejs、React、Electron、Flutter、uni-app、Taro、小程序等
+    details: 主Vue，其他：Nodejs、React、Electron、Flutter、uni-app、Taro、浏览器插件、小程序等
 ---
 
 ***
-### 强烈推荐
+### 强烈推荐:tada: :tada: :tada:
 - [若依NodeJs全栈，开源项目，附源码，有亮点功能](http://yanrui521.com:5000)
 - [阿瑞在线工具(加解密、m3u8调试等)](http://yanrui521.com:3020)
 - CSDN主页：[前端没钱](https://blog.csdn.net/yan1915766026)
-- 今日头条、抖音、快手同名作者：`前端没钱`
+- 今日头条、抖音、快手，同名作者：`前端没钱`

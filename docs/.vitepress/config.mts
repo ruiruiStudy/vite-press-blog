@@ -15,14 +15,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '示例', link: '/markdown-examples' }
+      { text: '配置项', link: '/api-examples' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: '示例', link: '/markdown-examples' },
           { text: '配置项', link: '/api-examples' },
           {
             text: '若依Nodejs全栈',
@@ -38,7 +37,7 @@ export default defineConfig({
           },
           {
             text: 'Electron仿微信',
-            collapsed: true,
+            collapsed: false,
             items: [
               { text: '高度还原微信', link: '/views/electron/article1' },
               { text: '联动关闭子窗口', link: '/views/electron/article2' },
@@ -47,6 +46,7 @@ export default defineConfig({
               { text: '置顶、最大化、最小化', link: '/views/electron/article6' },
             ]
           },
+          { text: '关于作者', link: '/views/about/author' },
         ]
       }
     ],
