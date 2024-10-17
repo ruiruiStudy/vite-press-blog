@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 文章列表
-      link: /markdown-examples
+      link: /views/ruoyi/article6
     - theme: alt
       text: 关于作者
       link: /views/about/author
