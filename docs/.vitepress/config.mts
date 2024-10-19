@@ -15,14 +15,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '配置项', link: '/api-examples' }
+      { text: '💻宝藏工具推荐', link: '/views/about/recommend' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: '配置项', link: '/api-examples' },
+          { text: '宝藏工具推荐', link: '/views/about/recommend' },
           {
             text: '若依Nodejs全栈',
             collapsed: false,
@@ -47,7 +47,7 @@ export default defineConfig({
             ]
           },
           { text: '关于作者', link: '/views/about/author' },
-          { text: '宝藏工具推荐', link: '/views/about/recommend' },
+          { text: '配置项', link: '/api-examples' },
         ]
       }
     ],
