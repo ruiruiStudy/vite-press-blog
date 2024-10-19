@@ -1,5 +1,7 @@
 ---
 outline: deep
+title: 💻宝藏工具推荐
+description: 博主推荐各种工具库、UI库、破解方法、插件库……
 ---
 
 ### 宝藏工具推荐
