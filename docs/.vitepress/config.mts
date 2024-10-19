@@ -47,6 +47,7 @@ export default defineConfig({
             ]
           },
           { text: '关于作者', link: '/views/about/author' },
+          { text: '宝藏工具推荐', link: '/views/about/recommend' },
         ]
       }
     ],
