@@ -25,12 +25,19 @@ description: 作者的个人简历、专业技能介绍、工作经历、开源�
 - 熟练使用 **Vue.js** 生态系统， 包括 **Vue2/Vue3**、**Pinia**、**Vue Router**等
 - 熟练使用现代前端工程化工具， 如 **Webpack**、**Vite**，能够优化构建过程和开发体验
 - 熟练掌握响应式设计和移动端开发， 熟练使用**uni-app**、**Taro**、**H5**、各种**原生小程序**
-- 熟悉浏览器渲染原理， 能够进行前端性能优化
 - 熟练使用 **TailwindCSS**、**Sass**、**Less**等CSS预处理器和框架
 - 熟练使用各种UI库及工具：**Ant Design**、**Element UI**、**Vant**、**Vxe-table**、**Vue Use**等
 - 有丰富的项目经验，可以对模块化开发提出优化建议，有各种Bug的调优经验
 - 熟练使用**nodejs**及相关框架，可以开发并部署后台管理系统，开发脚本工具；
-- 其他：熟悉**React**、**Electron**、**Flutter**、**浏览器插件开发**、**mysql**、**Nginx**等
+- 其他：熟悉各种语言及工具，如：
+  - **React**
+  - **Electron**
+  - **Tauri**
+  - **Flutter**
+  - **浏览器插件开发**
+  - **mysql**
+  - **Nginx**
+  - **Xshell/Xftp**
 
 ---
 
