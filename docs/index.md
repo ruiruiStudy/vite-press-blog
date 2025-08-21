@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: 开源项目
-    details: 若依Nodejs全栈、nodejs爬虫教程、篡改接口教程，electron仿微信，flutter仿微信，更新中
+    details: 若依Nodejs全栈、nodejs/python爬虫分享、篡改接口教程，electron仿微信，flutter仿微信
   - title: CSDN博主
     details: 小小博主，不值一提，热爱技术，喜欢分享，已分享前端的一些内容，注重实用性，浅显易懂
   - title: 技术栈
@@ -28,4 +28,9 @@ features:
 - [若依NodeJs全栈，开源项目，附源码，有亮点功能](http://yanrui521.com:5000)
 - [阿瑞在线工具(加解密、m3u8调试等)](http://yanrui521.com:3020)
 - CSDN主页：[前端没钱](https://blog.csdn.net/yan1915766026)
+- 掘金主页：[前端没钱](https://juejin.cn/user/4019470243745118)
 - 今日头条、抖音、快手，同名作者：`前端没钱`
+- 热门文章：
+  - [手机搭建服务器](https://juejin.cn/post/7537893826595700788)
+  - [一个前端同时联调N个后端](https://juejin.cn/post/7473085303981785127)
+  - [若依Nodejs启动教程，开源版](https://blog.csdn.net/yan1915766026/article/details/143248349)

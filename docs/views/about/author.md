@@ -87,7 +87,7 @@ description: 作者的个人简历、专业技能介绍、工作经历、开源�
 
 xxx 以后续写……
 
-#### 四、服装配补调管理系统
+#### 四、服装配补调仓管中心系统
 
 xxx 以后续写……
 
@@ -100,13 +100,14 @@ xxx 以后续写……
 ### ==🚀个人项目==
 
 - 若依nodejs版后台：前端用Vue3，后端用**nodejs + mysql + Redis**
-  ，把JAVA版改造成nodejs版，并加入特色功能。已开源并部署、供其他前端开发人员参考；[预览链接](http://yanrui521.com:5000)
-- 在线加解密工具持久化、m3u8调试工具，已部署上线，[体验地址](http://yanrui521.com:3020)
+  ，把JAVA版改造成nodejs版，并加入特色功能。已开源并部署、供其他前端开发人员参考；[预览链接](http://yanrui521.com:5000)【已失效，服务器到期了】
+- 在线加解密工具持久化、m3u8调试工具，已部署上线，[体验地址](http://www.crypt.yanrui.cloud)
 - 开发谷歌**浏览器插件**，集成加解密工具，公司常用项目的分组管理的链接等；目前在开发SessionBox版的插件（因为原插件无法使用，支持多账号登录的插件）
-- **Electron**仿微信项目、高度还原PC端微信的主要功能，已开源；
-- **Flutter**仿微信项目，仿写微信的主要页面及功能，代码整理中即将开源；
-- **NodeJs爬虫**教程博客、**Python爬虫**教程博客，详见[CSDN主页](https://blog.csdn.net/yan1915766026)
-- **VitePress**博客搭建项目，也就是本简历所在的项目，已开源；
+- **Electron**仿微信项目、高度还原PC端微信的主要功能，[开源地址](https://gitee.com/ruirui-study/electron-vite-wechat)；
+- **Flutter**仿微信项目，仿写微信的主要页面及功能，[开源地址](https://gitee.com/ruirui-study/flutter_weixin_dart35)；
+- **NodeJs爬虫**、**Python爬虫**、相关工具等，详见[CSDN主页](https://blog.csdn.net/yan1915766026)
+- **VitePress**博客搭建项目，也就是本简历所在的项目，[开源地址](https://gitee.com/ruirui-study/vite-press-blog)；
+- **tauri仿微信**，写起来比electron舒服一点，暂未开源项目
 
 ---
 

@@ -8,9 +8,7 @@ outline: deep
 
 前端的宝子们代码写累了吗？那就一起研究下后端吧！
 
-体验地址：[http://106.54.233.63:5000](http://106.54.233.63:5000/)
-
-升级地址：[http://yanrui521.com:5000](http://yanrui521.com:5000/)
+体验地址：[http://106.54.233.63:5000](http://106.54.233.63:5000/)【已失效、后续买服务器重新部署】
 
 Gitee源码：<https://gitee.com/ruirui-study/ruoyi_nodejs_open>
 
