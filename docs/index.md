@@ -25,8 +25,8 @@ features:
 
 ***
 ### 强烈推荐:tada: :tada: :tada:
-- [若依NodeJs全栈，开源项目，附源码，有亮点功能](http://yanrui521.com:5000)
-- [阿瑞在线工具(加解密、m3u8调试等)](http://yanrui521.com:3020)
+- [若依NodeJs全栈，开源项目，附源码，有亮点功能](https://gitee.com/ruirui-study/ruoyi_nodejs_open)
+- [阿瑞在线工具(加解密、m3u8调试等)](http://www.crypt.yanrui.cloud)
 - CSDN主页：[前端没钱](https://blog.csdn.net/yan1915766026)
 - 掘金主页：[前端没钱](https://juejin.cn/user/4019470243745118)
 - 今日头条、抖音、快手，同名作者：`前端没钱`
