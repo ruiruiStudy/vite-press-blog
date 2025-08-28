@@ -8,7 +8,20 @@ export default defineConfig({
   lastUpdated: true, // 最后更新时间
 
   head: [
-      ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    [
+      'script',
+      {},
+      ` 
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?6be28ce9bff926d5cfdb02d40b2a7712";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+      `
+    ]
   ],
 
   themeConfig: {
