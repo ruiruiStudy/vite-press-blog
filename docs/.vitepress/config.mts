@@ -4,24 +4,11 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "阿瑞博客",
   description: "个人网站，学习测试用",
-  cleanUrls: true, // 简介URL，省略结尾的 .html
+  cleanUrls: false, // 简介URL，是否省略结尾的 .html
   lastUpdated: true, // 最后更新时间
 
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
-    [
-      'script',
-      {},
-      ` 
-        var _hmt = _hmt || [];
-        (function() {
-          var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?6be28ce9bff926d5cfdb02d40b2a7712";
-          var s = document.getElementsByTagName("script")[0];
-          s.parentNode.insertBefore(hm, s);
-        })();
-      `
-    ]
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
 
   themeConfig: {
