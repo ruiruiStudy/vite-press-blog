@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "阿瑞博客"
   text: "个人网站，学习测试用"
-  tagline: 我的格言：不想当老板的全栈不是好前端
+  tagline: 我的格言：不想当厨师的全栈不是好前端
   actions:
     - theme: brand
       text: 文章列表
@@ -20,7 +20,7 @@ features:
   - title: CSDN博主
     details: 小小博主，不值一提，热爱技术，喜欢分享，已分享前端的一些内容，注重实用性，浅显易懂
   - title: 技术栈
-    details: 主Vue，其他：Nodejs、React、Electron、Flutter、uni-app、Taro、浏览器插件、小程序等
+    details: 主Vue，其他：Nodejs、React、Electron、Tauri、Flutter、uni-app、Taro、浏览器插件、小程序等
 ---
 
 ***
